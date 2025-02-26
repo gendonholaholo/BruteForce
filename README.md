@@ -88,5 +88,5 @@ use_proxy = True
 - Jika ingin melihat laporan hasil testing, bisa diakses di `reports/`.
 
 ## 6. Penutup
-Proyek ini digunakan untuk tujuan pengujian keamanan dan tidak boleh digunakan untuk aktivitas ilegal.
+Proyek ini digunakan untuk tujuan pengujian keamanan dan tidak boleh digunakan untuk aktivitas ilegal.  
 ~Mas Gendon.
